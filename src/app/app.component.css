@@ -1,0 +1,25 @@
+#overlay {
+  position:absolute; 
+  left:auto; 
+  top:auto; 
+
+  right: auto;
+  bottom: auto;
+
+  width:400px;
+  height:auto; 
+  background-color:green;
+}
+
+#content{
+  margin: 10px;
+}
+
+#mover{
+  background: red;
+  width: auto;
+  display: block;
+  height: auto;
+  /* padding: 0 10px; */
+}
+
